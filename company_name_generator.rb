@@ -9,7 +9,7 @@ class CompanyNameGenerator < Sinatra::Base
         <style>
           h1, h2 {
             font-family: Georgia, Times New Roman, Times, serif;
-            color: royalblue;
+            color: green;
             margin: 0;
           }
         </style>
